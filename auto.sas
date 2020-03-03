@@ -1,0 +1,2 @@
+LIBNAME sh 'C:\DATA' ;
+%LET pr = %STR(PROC PRINT; RUN;);
